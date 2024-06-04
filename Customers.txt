@@ -1,0 +1,4 @@
+CustomerID;FirstName;LastName;Gender
+1;John;Smith;M
+2;Merry;Smith;F
+3;Tom;Hence;M
