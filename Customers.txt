@@ -5,3 +5,5 @@ CustomerID;FirstName;LastName;Gender
 4,Hildana, Tadiyos
 5,Marda Teddy
 10. Mimi desta
+11. Elu naod
+12.Bilu naod
